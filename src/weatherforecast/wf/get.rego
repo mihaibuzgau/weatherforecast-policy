@@ -1,6 +1,6 @@
 package weatherforecast.GET.wf
 
-default allowed = false
+default allowed = true
 
 allowed {
     caller = input.user
